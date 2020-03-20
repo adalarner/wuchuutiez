@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aighierier.stubert.us/sitemap.xml
